@@ -6,7 +6,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 # URL of the Site
-url: https://junia3.github.io
+url: https://taeyeong132.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -14,13 +14,13 @@ baseurl:
 highlighter: rouge
 
 # Title of the Site
-title: Welcome to JunYoung's blog
+title: Welcome to Taeyeong's blog
 # Description of the Site
 description: Personal portfolio/Diary
 # URL of Image of the Site
-site-image: https://avatars.githubusercontent.com/u/79881119?v=4
+site-image: https://avatars.githubusercontent.com/u/88639688?v=4
 # Keywords of the Site
-site-keywords: AI, Developer, Research engineer
+site-keywords: AI, Developer, Diffusion engineer
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -32,13 +32,13 @@ heroimage_dark: https://user-images.githubusercontent.com/79881119/236141452-c60
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: jun_yonsei@yonsei.ac.kr
-facebook_username: jyyonsei
-twitter_username: jun_yonsei
-instagram_username: 6unoyunr
+email: dbxodud132@konkuk.ac.kr
+facebook_username:
+twitter_username: 
+instagram_username: 
 linkedin_username: 
-github_username:  junia3
-youtube_channel_id: UCuISXjdac3BR5w5ZSGHtDLg
+github_username:  taeyeong132
+youtube_channel_id: 
 reddit_username:
 behance_username:
 dribbble_username:
@@ -51,13 +51,13 @@ google-analytics: G-KFNS88G1GM
 disqus-shortname:
 
 # Name of the Author
-author-name: JunYoung
+author-name: TaeYeong
 # URL for the Image of the Author
-author-image: https://avatars.githubusercontent.com/u/79881119?v=4
+author-image: https://avatars.githubusercontent.com/u/88639688?v=4
 # 60 Words About the Author
-author-about: Yonsei University, Electrical electronic engineering, YAI, Artificial intelligence, Deep learning, Machine learning, Seoul, South Korea
+author-about: Konkuk University, Electrical electronic engineering, Diffusion, Artificial intelligence, Deep learning, Machine learning, Seoul, South Korea
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/junia3
+author-url: https://github.com/taeyeong132
 
 # SASS
 sass:
