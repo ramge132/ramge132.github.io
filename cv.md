@@ -4,7 +4,7 @@ layout: cv
 ---
 
 **Address:** Seoul, Korea   
-**Email:** jun_yonsei@yonsei.ac.kr
+**Email:** taeyoun9@gmail.com
    
 ---
    
