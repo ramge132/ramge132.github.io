@@ -16,34 +16,41 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
    
 ## WORK EXPERIENCE
 
-|Math Academy, Seoul/South Korea|02/2016 ~ 07/2022|
+|Konkuk University, Seoul/South Korea|03/2023 ~ 6/2023|
 |:---|---:|
-||Assistant instructor|
-||Management|   
-   
-|Konkuk University/VLSI Lab|05/2021 ~ 08/2021|
-|:---|---:|
-|||
+||TA on Electrical and Electronic Design and Software Practice(2023 Spring)|
 
-|Konkuk University, Seoul/South Korea|08/2020 ~ 12/2020|
+|Konkuk University, Seoul/South Korea|03/2022 ~ 6/2022|
 |:---|---:|
 ||TA on Electrical and Electronic Design and Software Practice(2022 Spring)|
 
-|Konkuk University, Seoul/South Korea|09/2021 ~ 12/2021|
+|DeepET, South Korea|07/2021 ~ 02/2024|
 |:---|---:|
-||TA on Electrical and Electronic Design and Software Practice(2023 Spring)|
+||AI Researcher|
+
+|QURO, South Korea|05/2019 ~ 05/2021|
+|:---|---:|
+||Research and development|
 
 ---
 
 ## EDUCATION
 
-|Bachelor Degree of Electrical and Electronic engineering|03/2016 ~ 08/2022|
+|Master Degree of Electrical and Elecronic Engineering|09/2021 ~ 02/2024|
 |:---|---:|
-||Yonsei University, Seoul|
+||Konkuk University, Seoul|
 
-|Master Degree of Electrical and Elecronic engineering|09/2022 ~ Present|
+|Bachelor Degree of Electrical and Electronic Engineering|01/2020 ~ 08/2020|
 |:---|---:|
-||Yonsei University, Seoul|
+||National Institute for Lifelong Education, Seoul|
+
+|Study Aboard|07/2015 ~ 08/2015|
+|:---|---:|
+||California State University, Monterey Bay|
+
+|Departement of Electrical and Electronic Engineering|dropout|
+|:---|---:|
+||Tech University of Korea, Gyeonggi-do|
 
 ---
 
