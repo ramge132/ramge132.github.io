@@ -10,7 +10,7 @@ layout: cv
    
 ## OBJECTIVE
 
-Reseach on generative models, multimodal
+Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
    
 ---
    
@@ -21,25 +21,17 @@ Reseach on generative models, multimodal
 ||Assistant instructor|
 ||Management|   
    
-|Yonsei University, Seoul/South Korea|08/2020 ~ 12/2020|
-|:---|---:|
-||TA on engineering information processing(2020 Fall)|
-
-|Yonsei University/Digital Signal Processing Lab|05/2021 ~ 08/2021|
+|Konkuk University/VLSI Lab|05/2021 ~ 08/2021|
 |:---|---:|
 |||
 
-|Yonsei University, Seoul/South Korea|09/2021 ~ 12/2021|
+|Konkuk University, Seoul/South Korea|08/2020 ~ 12/2020|
 |:---|---:|
-||TA on engineering information processing(2021 Fall)|
+||TA on Electrical and Electronic Design and Software Practice(2022 Spring)|
 
-|Yonsei University, Seoul/Digital Image Media Lab|09/2021 ~ Present|
+|Konkuk University, Seoul/South Korea|09/2021 ~ 12/2021|
 |:---|---:|
-|||
-
-|Yonsei artificial intelligence(YAI)|01/2022 ~ Present|
-|:---|---:|
-|||
+||TA on Electrical and Electronic Design and Software Practice(2023 Spring)|
 
 ---
 
@@ -58,9 +50,8 @@ Reseach on generative models, multimodal
 ## ADDITIONAL SKILLS
 
 Microsoft Office package: Microsoft Word, Excel, Powerpoint   
-Programming: C, C#, Python, JQeury, Javascript, Matlab   
-Web: HTML, CSS   
-Additional: Latex   
+Programming: C, Python, Verilog, VHDL  
+Additional: Latex, Markdown   
 
 ---
 
