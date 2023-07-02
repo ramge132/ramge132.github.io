@@ -27,8 +27,8 @@ favicon-url:
 darkmode_switch: true
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://user-images.githubusercontent.com/79881119/236141452-c606cf42-7ad8-4d56-9d06-170ac7cfb6ba.jpg
-heroimage_dark: https://user-images.githubusercontent.com/79881119/236141452-c606cf42-7ad8-4d56-9d06-170ac7cfb6ba.jpg
+heroimage: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github.io/7bbfe78bb12408970b0035c97dca100763b8caa9/custom/%EB%B0%B0%EB%84%88%EC%82%AC%EC%A7%84.png
+heroimage_dark: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github.io/7bbfe78bb12408970b0035c97dca100763b8caa9/custom/%EB%B0%B0%EB%84%88%EC%82%AC%EC%A7%84.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -53,7 +53,7 @@ disqus-shortname:
 # Name of the Author
 author-name: TaeYeong
 # URL for the Image of the Author
-author-image: https://avatars.githubusercontent.com/u/88639688?v=4
+author-image: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github.io/7bbfe78bb12408970b0035c97dca100763b8caa9/custom/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg
 # 60 Words About the Author
 author-about: Konkuk University, Electrical electronic engineering, Diffusion, Artificial intelligence, Deep learning, Machine learning, Seoul, South Korea
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
