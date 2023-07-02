@@ -27,8 +27,8 @@ favicon-url:
 darkmode_switch: true
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github.io/7bbfe78bb12408970b0035c97dca100763b8caa9/custom/%EB%B0%B0%EB%84%88%EC%82%AC%EC%A7%84.png
-heroimage_dark: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github.io/7bbfe78bb12408970b0035c97dca100763b8caa9/custom/%EB%B0%B0%EB%84%88%EC%82%AC%EC%A7%84.png
+heroimage: https://github.com/taeyeong132/taeyeong132.github.io/blob/master/custom/%EB%B0%B0%EB%84%88%EC%82%AC%EC%A7%84.png?raw=true
+heroimage_dark: https://github.com/taeyeong132/taeyeong132.github.io/blob/master/custom/%EB%B0%B0%EB%84%88%EC%82%AC%EC%A7%84.png?raw=true
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
