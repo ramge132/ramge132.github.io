@@ -14,13 +14,13 @@ baseurl:
 highlighter: rouge
 
 # Title of the Site
-title: Welcome to Taeyeong's blog
+title: My name is Tae-yeong Yu
 # Description of the Site
-description: Personal portfolio/Diary
+description: AI Developer
 # URL of Image of the Site
 site-image: https://avatars.githubusercontent.com/u/88639688?v=4
 # Keywords of the Site
-site-keywords: AI, Developer, Diffusion engineer
+site-keywords: AI, Diffusion, Generative Models, Embedded
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -32,7 +32,7 @@ heroimage_dark: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: dbxodud132@konkuk.ac.kr
+email: taeyoun9@gmail.com
 facebook_username:
 twitter_username: 
 instagram_username: 
@@ -55,7 +55,7 @@ author-name: TaeYeong
 # URL for the Image of the Author
 author-image: https://raw.githubusercontent.com/taeyeong132/taeyeong132.github.io/7bbfe78bb12408970b0035c97dca100763b8caa9/custom/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84.jpg
 # 60 Words About the Author
-author-about: Konkuk University, Electrical electronic engineering, Diffusion, Artificial intelligence, Deep learning, Machine learning, Seoul, South Korea
+author-about: Konkuk University, Electrical Electronic Engineering, Diffusion, Artificial intelligence, Deep learning, Machine learning, Seoul, South Korea
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/taeyeong132
 
