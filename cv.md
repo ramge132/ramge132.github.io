@@ -37,11 +37,11 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 
 ## EDUCATION
 
-|Master Degree of Electrical and Elecronic Engineering|09/2021 ~ 02/2024|
+|Master's Degree of Electrical and Elecronic Engineering|09/2021 ~ 02/2024|
 |:---|---:|
 ||Konkuk University, Seoul|
 
-|Bachelor Degree of Electrical and Electronic Engineering|01/2020 ~ 08/2020|
+|Bachelor's Degree of Electrical and Electronic Engineering|01/2020 ~ 08/2020|
 |:---|---:|
 ||National Institute for Lifelong Education, Seoul|
 ||Tech University of Korea, Gyeounggi-do(dropout)|
