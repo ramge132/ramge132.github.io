@@ -59,7 +59,7 @@ C, Python, Verilog, VHDL<br><br>
 **Technical Skills:**<br>
 Linux, MCU Control, Markdown, Schematic Design, PCB Design<br><br>
 **Software Skills:**<br>
-Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas<br><br>
+Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas, 한글<br><br>
 **Certifications:**<br>
 아마추어무선기사 (2급) <br>
 소방안전관리자 (1급)<br>
@@ -70,4 +70,6 @@ KS Q ISO/IEC 17025, 질량 및 부피 정밀측정, 측정불확도, 길이분�
 ---
 
 ## PAPER
-J. Park et al., “Motion blur measurement of face image using cosine similarity and regression network”
+Tae Yeong Yu et al., "Design and Structural Simplification of a CNN Acceleration Processor Based on RISC-V" (IPIU 2022)<br>
+Seo Jin Jang et al., "DCT-based Convolution Neural Network Model Compression for Embedded Platform" (IPIU 2023)<br>
+Tae Yeong Yu et al., "Research on Effective Dataset Generation Using Generative AI for Deep Learning Training"<br>
