@@ -23,11 +23,11 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 
 |Konkuk University, Seoul/South Korea|03/2023 ~ 06/2023|
 |:---|---:|
-||TA on Electrical and Electronic Design and Software Practice(6M)|
+||TA on Electrical and Electronic Design and Software Practice (6M)|
 
 |Konkuk University, Seoul/South Korea|03/2022 ~ 06/2022|
 |:---|---:|
-||TA on Electrical and Electronic Design and Software Practice(6M)|
+||TA on Electrical and Electronic Design and Software Practice (6M)|
 
 |QURO, Gyeonggi-do/South Korea|05/2019 ~ 02/2022|
 |:---|---:|
