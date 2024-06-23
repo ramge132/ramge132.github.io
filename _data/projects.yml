@@ -1,5 +1,5 @@
 - name: Dataset Generation
-  image: Thumbnail_Dataset_Generation.png
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_Dataset_Generation.png?raw=true
   link: https://github.com/ramge132/HypoNet
   description: Image dataset generation using diffusion model
 - name: Live Wire Detector
