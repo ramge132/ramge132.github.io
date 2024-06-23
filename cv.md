@@ -23,16 +23,16 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 
 |Konkuk University, Seoul/South Korea|03/2023 ~ 06/2023|
 |:---|---:|
-||TA on Electrical and Electronic Design and Software Practice(2023 Spring)|
+||TA on Electrical and Electronic Design and Software Practice(6M)|
 
 |Konkuk University, Seoul/South Korea|03/2022 ~ 06/2022|
 |:---|---:|
-||TA on Electrical and Electronic Design and Software Practice(2022 Spring)|
+||TA on Electrical and Electronic Design and Software Practice(6M)|
 
 |QURO, Gyeonggi-do/South Korea|05/2019 ~ 02/2022|
 |:---|---:|
 ||Research and Development Engineer (2Y 10M)|
-||Achieved ₩200,000,000 in sales: Electric Live Alarm(2021)|
+||Achieved ₩200,000,000 in sales: Electric Live Alarm *2021*|
 
 ---
 
