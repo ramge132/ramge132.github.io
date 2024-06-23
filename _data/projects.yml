@@ -3,22 +3,22 @@
   link: https://github.com/ramge132/HypoNet
   description: Image dataset generation using diffusion model
 - name: Live Wire Detector
-  link: https://github.com/minsu1206/BlurFaceDetection
-  image: https://raw.githubusercontent.com/WillBrennan/BlurDetection2/master/docs/demo.png
+  link: https://github.com/ramge132/Live-Wire-Detector
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_Live_Wire.png?raw=true
   description: Safety devices for high voltage workers
 - name: YB Instance Segmentation
-  link: https://github.com/junia3/Long-Tail-Emotion-Recognition
-  image: https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-12.jpg&signature=317feb1b808e69de1479a697dd56bf18
+  link: https://github.com/ramge132/YB-Instance-Segmentation
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_YB_Seg.jpg?raw=true
   description: Fast segmentation in embedded environments
 - name: Personal Drum Mania
-  link: https://github.com/junia3/CTLowDoseChallenge
-  image: https://www.ccjm.org/content/ccjom/83/6/423/F1.medium.gif
+  link: https://github.com/ramge132/Personal-Drum-Mania
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Tumbnail_Drum.jpg?raw=true
   description: Enjoy drum mania at home
 - name: LAOS (Linux Audio Output Selector)
-  link: https://github.com/junia3/Synthetic-Speech-Detection
-  image: https://user-images.githubusercontent.com/79881119/236765082-9a073601-d863-4900-b3ad-6c176ee39cc1.gif
+  link: https://github.com/ramge132/LAOS-Linux-Audio-Output-Selector-
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Tumbnail_LAOS.png?raw=true
   description: Select a sound device from Linux using a shortcut
 - name: KU Generator
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  link: https://github.com/ramge132/KU-Generator
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_KU.png?raw=true
   description: Create Konkuk University mascot KU in the style you want
