@@ -1,7 +1,7 @@
-- name: Deep hedging
-  image: https://www.fidelity.com/bin-public/060_www_fidelity_com/images/Viewpoints/AT/hedge_stocks_2021_banner.jpg
-  link: https://github.com/junia3/Faster-Deep-Hedging
-  description: Hedging stock with deep learning
+- name: Dataset Generation
+  image: Thumbnail_Dataset_Generation.png
+  link: https://github.com/ramge132/HypoNet
+  description: Image Dataset Generation Using Diffusion Model
 - name: Blur detection
   link: https://github.com/minsu1206/BlurFaceDetection
   image: https://raw.githubusercontent.com/WillBrennan/BlurDetection2/master/docs/demo.png
