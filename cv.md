@@ -54,14 +54,14 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 
 ## ADDITIONAL SKILLS
 
-Programming: C, Python, Verilog, VHDL
-Additional: Linux, Latex, Markdown, MCU Control, Schematic Design, PCB Design
-Microsoft Office package: Microsoft Word, Excel, Powerpoint   
-Certifications: 
-아마추어무선기사 (2급) 
-소방안전관리자 (1급)
-JLPT (N4)
-KS Q ISO/IEC 17025, 질량 및 부피 정밀측정, 측정불확도, 길이분야 정밀측정 수료 및 합격 (한국계량측정협회)
+Programming: C, Python, Verilog, VHDL<br>
+Additional: Linux, Latex, Markdown, MCU Control, Schematic Design, PCB Design<br>
+Microsoft Office package: Microsoft Word, Excel, Powerpoint<br>
+Certifications: <br>
+아마추어무선기사 (2급) <br>
+소방안전관리자 (1급)<br>
+JLPT (N4)<br>
+KS Q ISO/IEC 17025, 질량 및 부피 정밀측정, 측정불확도, 길이분야 정밀측정 수료 및 합격 (한국계량측정협회)<br>
 
 ---
 
