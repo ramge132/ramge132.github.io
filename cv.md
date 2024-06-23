@@ -54,10 +54,13 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 
 ## ADDITIONAL SKILLS
 
-**Programming Languages:** C, Python, Verilog, VHDL<br>
-**Technical Skills:** Linux, MCU Control, Markdown, Schematic Design, PCB Design<br>
-**Software Skills:** Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas<br>
-**Certifications:** <br>
+**Programming Languages:**<br>
+C, Python, Verilog, VHDL<br><br>
+**Technical Skills:**<br>
+Linux, MCU Control, Markdown, Schematic Design, PCB Design<br><br>
+**Software Skills:**<br>
+Microsoft Word, Excel, Powerpoint, Photoshop, PremierePro, Vegas<br><br>
+**Certifications:**<br>
 아마추어무선기사 (2급) <br>
 소방안전관리자 (1급)<br>
 JLPT (N4)<br>
