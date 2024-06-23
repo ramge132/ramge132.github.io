@@ -4,7 +4,7 @@ layout: cv
 ---
 
 **Address:** Seoul, Korea   
-**Email:** taeyoun9@gmail.com
+**Email:** taeyoun9@gmail.com   
 **Portfolio:** [Download PDF](portfolio.pdf)
    
 ---
