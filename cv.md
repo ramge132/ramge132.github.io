@@ -54,7 +54,7 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 
 ## ADDITIONAL SKILLS
 
-**Programming Languages:**<br>
+**Languages:**<br>
 C, Python, Verilog, VHDL<br><br>
 **Technical Skills:**<br>
 Linux, MCU Control, Markdown, Schematic Design, PCB Design<br><br>
