@@ -2,22 +2,22 @@
   image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_Dataset_Generation.png?raw=true
   link: https://github.com/ramge132/HypoNet
   description: |
-  Image dataset generation using diffusion model
+    Image dataset generation using diffusion model
 - name: Live Wire Detector
   link: https://github.com/ramge132/Live-Wire-Detector
   image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_Live_Wire.png?raw=true
   description: |
-  Safety devices for high voltage workers
+    Safety devices for high voltage workers
 - name: YB Instance Segmentation
   link: https://github.com/ramge132/YB-Instance-Segmentation
   image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_YB_Seg.jpg?raw=true
   description: |
-  Fast segmentation in embedded environments
+    Fast segmentation in embedded environments
 - name: Personal Drum Mania
   link: https://github.com/ramge132/Personal-Drum-Mania
   image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Tumbnail_Drum.jpg?raw=true
   description: |
-  Enjoy GITADORA Drummania at home!
+    Enjoy GITADORA Drummania at home!
 - name: LAOS (Linux Audio Output Selector)
   link: https://github.com/ramge132/LAOS-Linux-Audio-Output-Selector-
   image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Tumbnail_LAOS.png?raw=true
