@@ -17,9 +17,9 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
    
 ## WORK EXPERIENCE
 
-|DeepET, Seoul/South Korea|07/2021 ~ 02/2024|
+|DeepET, Seoul/South Korea|11/2021 ~ 02/2024|
 |:---|---:|
-||AI Researcher|
+||AI Researcher (2Y 4M)|
 
 |Konkuk University, Seoul/South Korea|03/2023 ~ 06/2023|
 |:---|---:|
@@ -29,9 +29,9 @@ Reseach on generative models, Image & Data Generate, Diffusion Model, Embedded
 |:---|---:|
 ||TA on Electrical and Electronic Design and Software Practice(2022 Spring)|
 
-|QURO, Gyeonggi-do/South Korea|05/2019 ~ 05/2021|
+|QURO, Gyeonggi-do/South Korea|05/2019 ~ 02/2022|
 |:---|---:|
-||Research and Development Engineer|
+||Research and Development Engineer (2Y 10M)|
 ||Achieved ₩200,000,000 in sales: Electric Live Alarm(2021)|
 
 ---
