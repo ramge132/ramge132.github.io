@@ -12,7 +12,7 @@
     Safety devices for high voltage workers
 - name: YB Instance Segmentation
   link: https://github.com/ramge132/YB-Instance-Segmentation
-  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_YB_Seg.jpg?raw=true
+  image: https://github.com/ramge132/ramge132.github.io/blob/master/custom/Thumbnail_YB_Seg.png?raw=true
   description: |
     
     Fast segmentation in embedded environments
