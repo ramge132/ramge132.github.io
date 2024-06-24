@@ -18,7 +18,7 @@ layout: compress
         <div class="hero-body">
             <div class="container has-text-centered">
                 <div class="section">
-                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Projects</p>
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey" style="text-align: center;">Projects</p>
                 </div>
 
                 <!-- Project Cards -->
@@ -36,13 +36,13 @@ layout: compress
                             <div class="card-content">
                                 <div class="media">
                                     <div class="media-content">
-                                        <p class="title is-4">{{ project.name }}</p>
+                                        <p class="title is-4" style="text-align: center;">{{ project.name }}</p>
                                     </div>
                                 </div>
-                                <div class="content">
+                                <div class="content" style="text-align: center;">
                                     {{ project.description | markdownify }}
                                     <br>
-                                    <a href="{{ project.link }}">Learn more</a>
+                                    <a href="{{ project.link }}">See Details</a>
                                 </div>
                             </div>
                         </div>
