@@ -10,8 +10,10 @@ layout: compress
     {% include loading.html %}
     <style>
         /* 어두워지는 효과 제거 */
-        .card-image figure:hover img {
-            filter: none !important; /* 어두워지는 효과 제거 */
+        .card:hover, .card-image figure:hover img {
+            filter: none !important; /* 필터 효과 제거 */
+            background-color: transparent !important; /* 배경색 효과 제거 */
+            box-shadow: none !important; /* 그림자 효과 제거 */
         }
     </style>
 </head>
