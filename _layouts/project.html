@@ -9,14 +9,14 @@ layout: compress
     {% include head.html %}
     {% include loading.html %}
     <style>
+        /* 어두워지는 효과 제거 */
         .card:hover {
-            background-color: transparent !important; /* 배경색을 투명하게 설정 */
-            box-shadow: none !important; /* 그림자 효과 제거 */
+            background-color: transparent !important;
+            box-shadow: none !important;
         }
 
         .card-image figure:hover img {
-            filter: none !important; /* 필터 효과 제거 */
-            transform: none !important; /* 변환 효과 제거 */
+            filter: none !important;
         }
     </style>
 </head>
@@ -36,7 +36,7 @@ layout: compress
                 <div class="columns is-multiline is-centered">
                     {% for project in site.data.projects %}
                     <div class="column is-one-third">
-                        <div class="card">
+                        <div class="card" style="background-color: transparent !important;">
                             <div class="card-image">
                                 <figure class="image is-4by3" style="overflow: hidden;">
                                     <a href="{{ project.link }}">
