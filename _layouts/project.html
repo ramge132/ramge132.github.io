@@ -8,6 +8,12 @@ layout: compress
 <head>
     {% include head.html %}
     {% include loading.html %}
+    <style>
+        /* 어두워지는 효과 제거 */
+        .card-image figure:hover img {
+            filter: none !important; /* 어두워지는 효과 제거 */
+        }
+    </style>
 </head>
 
 <body>
