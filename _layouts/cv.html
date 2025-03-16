@@ -22,21 +22,13 @@ layout: compress
                 <div class="pdf-container">
                     <div id="pdf-viewer"></div>
                     <div class="pdf-controls">
-                        <button id="prev" class="button is-small">
-                            <span class="icon">
-                                <i class="fas fa-chevron-left"></i>
-                            </span>
-                        </button>
+                        <button id="prev" class="button is-small">이전</button>
                         <span id="page-num"></span> / <span id="page-count"></span>
-                        <button id="next" class="button is-small">
-                            <span class="icon">
-                                <i class="fas fa-chevron-right"></i>
-                            </span>
-                        </button>
+                        <button id="next" class="button is-small">다음</button>
                         <select id="zoom" class="select is-small">
                             <option value="0.5">50%</option>
-                            <option value="0.8">80%</option>
-                            <option value="1" selected>100%</option>
+                            <option value="0.8" selected>80%</option>
+                            <option value="1">100%</option>
                             <option value="1.5">150%</option>
                         </select>
                     </div>
@@ -50,7 +42,7 @@ layout: compress
                         pageNum = 1,
                         pageRendering = false,
                         pageNumPending = null,
-                        scale = 1.0;
+                        scale = 0.8;
                     
                     const canvas = document.createElement('canvas'),
                           ctx = canvas.getContext('2d'),
@@ -62,11 +54,6 @@ layout: compress
                           zoomSelect = document.getElementById('zoom');
                     
                     viewer.appendChild(canvas);
-
-                    // 초기 선택값을 100%로 변경
-                    document.addEventListener('DOMContentLoaded', function() {
-                        document.querySelector('#zoom option[value="1"]').selected = true;
-                    });
 
                     function renderPage(num) {
                         pageRendering = true;
@@ -143,7 +130,7 @@ layout: compress
                        class="button is-link is-rounded is-outlined" 
                        download="유태영_포트폴리오.pdf">
                         <span class="icon">
-                            <i class="fas fa-file-download"></i>
+                            <i class="fas fa-download"></i>
                         </span>
                         <span>포트폴리오 다운로드</span>
                     </a>
