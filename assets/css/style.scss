@@ -790,3 +790,29 @@ a.navbar-item.is-active {
 .highlight {
   background-color: #f8f8f8;
 }
+
+.pdf-container {
+    margin: 2rem auto;
+    max-width: 100%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.pdf-container iframe {
+    border: none;
+    display: block;
+}
+
+.buttons.is-centered {
+    justify-content: center;
+}
+
+.button.is-link.is-outlined {
+    transition: all 0.3s ease;
+    
+    &:hover {
+        background-color: #485fc7;
+        color: white;
+    }
+}
