@@ -22,9 +22,17 @@ layout: compress
                 <div class="pdf-container">
                     <div id="pdf-viewer"></div>
                     <div class="pdf-controls">
-                        <button id="prev" class="button is-small">이전</button>
+                        <button id="prev" class="button is-small">
+                            <span class="icon">
+                                <i class="fas fa-chevron-left"></i>
+                            </span>
+                        </button>
                         <span id="page-num"></span> / <span id="page-count"></span>
-                        <button id="next" class="button is-small">다음</button>
+                        <button id="next" class="button is-small">
+                            <span class="icon">
+                                <i class="fas fa-chevron-right"></i>
+                            </span>
+                        </button>
                         <select id="zoom" class="select is-small">
                             <option value="0.5">50%</option>
                             <option value="0.8" selected>80%</option>
