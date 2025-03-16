@@ -9,6 +9,9 @@ layout: compress
     {% include head.html %}
     {% include navbar.html %}
     {% include loading.html %}
+    <!-- PDF.js 라이브러리 추가 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf_viewer.min.css">
 </head>
 
 <body>
@@ -19,12 +22,105 @@ layout: compress
                     Taeyoneg Yu
                 </h1>
                 
-                <!-- PDF 뷰어 추가 -->
+                <!-- PDF 뷰어 컨테이너 수정 -->
                 <div class="pdf-container">
-                    <iframe src="{{site.baseurl}}/assets/files/유태영 포트폴리오.pdf" width="100%" height="800px"></iframe>
+                    <div id="pdf-viewer"></div>
+                    <div class="pdf-controls">
+                        <button id="prev" class="button is-small">Previous</button>
+                        <span id="page-num"></span> / <span id="page-count"></span>
+                        <button id="next" class="button is-small">Next</button>
+                        <select id="zoom" class="select is-small">
+                            <option value="0.5">50%</option>
+                            <option value="1" selected>100%</option>
+                            <option value="1.5">150%</option>
+                            <option value="2">200%</option>
+                        </select>
+                    </div>
                 </div>
 
-                <!-- 다운로드 버튼 추가 -->
+                <!-- PDF.js 초기화 스크립트 -->
+                <script>
+                    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
+                    
+                    let pdfDoc = null,
+                        pageNum = 1,
+                        pageRendering = false,
+                        pageNumPending = null,
+                        scale = 1;
+                    
+                    const canvas = document.createElement('canvas'),
+                          ctx = canvas.getContext('2d'),
+                          viewer = document.getElementById('pdf-viewer'),
+                          prev = document.getElementById('prev'),
+                          next = document.getElementById('next'),
+                          pageNumSpan = document.getElementById('page-num'),
+                          pageCountSpan = document.getElementById('page-count'),
+                          zoomSelect = document.getElementById('zoom');
+                    
+                    viewer.appendChild(canvas);
+
+                    function renderPage(num) {
+                        pageRendering = true;
+                        pdfDoc.getPage(num).then(function(page) {
+                            const viewport = page.getViewport({scale: scale});
+                            canvas.height = viewport.height;
+                            canvas.width = viewport.width;
+                            
+                            const renderContext = {
+                                canvasContext: ctx,
+                                viewport: viewport
+                            };
+                            
+                            const renderTask = page.render(renderContext);
+                            renderTask.promise.then(function() {
+                                pageRendering = false;
+                                if (pageNumPending !== null) {
+                                    renderPage(pageNumPending);
+                                    pageNumPending = null;
+                                }
+                            });
+                        });
+                        
+                        pageNumSpan.textContent = num;
+                    }
+
+                    function queueRenderPage(num) {
+                        if (pageRendering) {
+                            pageNumPending = num;
+                        } else {
+                            renderPage(num);
+                        }
+                    }
+
+                    function onPrevPage() {
+                        if (pageNum <= 1) return;
+                        pageNum--;
+                        queueRenderPage(pageNum);
+                    }
+
+                    function onNextPage() {
+                        if (pageNum >= pdfDoc.numPages) return;
+                        pageNum++;
+                        queueRenderPage(pageNum);
+                    }
+
+                    function onZoomChange() {
+                        scale = parseFloat(zoomSelect.value);
+                        queueRenderPage(pageNum);
+                    }
+
+                    pdfjsLib.getDocument('{{site.baseurl}}/assets/files/유태영 포트폴리오.pdf').promise.then(function(pdfDoc_) {
+                        pdfDoc = pdfDoc_;
+                        pageCountSpan.textContent = pdfDoc.numPages;
+                        renderPage(pageNum);
+                    });
+
+                    prev.addEventListener('click', onPrevPage);
+                    next.addEventListener('click', onNextPage);
+                    zoomSelect.addEventListener('change', onZoomChange);
+                </script>
+
+                <!-- 다운로드 버튼 -->
                 <div class="buttons is-centered" style="margin-top: 20px;">
                     <a href="{{site.baseurl}}/assets/files/유태영 포트폴리오.pdf" 
                        class="button is-link is-rounded is-outlined" 
